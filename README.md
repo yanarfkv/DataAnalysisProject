@@ -21,6 +21,8 @@
 ## Google Collab
 https://colab.research.google.com/drive/1QNENs2ELo_nCaiB8jEHI5s1YjS8oFQRT?usp=sharing
 ## Видео с защитой проекта
+https://www.youtube.com/watch?v=zjWVL8FcOmw
+https://drive.google.com/drive/folders/1QmNBv9dNLQhGw2avQad8YIN9abHLbIzn?usp=sharing
 ## План
 - EDA
 - Попробовать модели 
